@@ -1,0 +1,4 @@
+Metrica,Conteo,Porcentaje_Transcriptoma,Porcentaje_Proteoma
+Total Genes Transcriptoma,18972,100.0,-
+Genes Mapeados a Proteina (Homo sapiens),18330,96.62,100.0
+Proteinas que Superan Filtro (L <= 1022 AA),15940,84.02,86.96

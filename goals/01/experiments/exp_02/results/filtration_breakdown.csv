@@ -1,0 +1,5 @@
+Categoria,Conteo,Porcentaje
+Genes No Codificantes / No Mapeados,642,3.38
+Secuencias Excluidas por Longitud (> 1022 AA),2390,12.6
+Aprobados en FASTA Curado (L <= 1022 AA),15940,84.02
+Total Transcriptoma,18972,100.0
