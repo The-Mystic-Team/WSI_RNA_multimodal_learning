@@ -1,0 +1,2 @@
+total_genes,embedding_dim,nan_count,inf_count,zero_variance_dims,mean_norm_l2,std_norm_l2,min_norm_l2,max_norm_l2,p05_norm_l2,p95_norm_l2,mean_dimension_variance,min_dimension_variance
+15940,1280,0,0,0,7.2789225578308105,1.1605257987976074,4.221360683441162,10.185388565063477,5.433250045776367,9.287349414825439,0.006022981368005276,0.0012968041701242328

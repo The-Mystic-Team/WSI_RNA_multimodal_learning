@@ -1,0 +1,2 @@
+model,batch_size,total_sequences,total_tokens,inference_seconds,sequences_per_second,tokens_per_second,peak_vram_mb,sha256
+facebook/esm2_t33_650M_UR50D,4,15940,7092699,6623.64,2.41,1070.82,3419.1,9d391e1fede8714c67dac17d61de90868d552e25698f31156516aa37552204a8
